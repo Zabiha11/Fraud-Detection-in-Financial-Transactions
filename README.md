@@ -8,7 +8,7 @@ This is a machine learning-based web application to **detect fraudulent financia
 </p>
 
 ---
-
+app link : http://192.168.0.9:8502/
 ## 📌 Table of Contents
 
 - [Overview](#overview)
