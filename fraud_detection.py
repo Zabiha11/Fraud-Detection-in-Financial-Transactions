@@ -30,7 +30,7 @@ if st.button("Predict"):
 
     prediction = model.predict(input_data)[0]
 
-    st.subheader(f"This transaction can be fraud")
+    st.subheader(f"Prediction:-")
 
     if prediction == 1:
         st.error("This transaction can be fraud")
