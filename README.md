@@ -42,6 +42,8 @@ FRAUD DETECTION/
 
 └── fraud_detection.py              # Streamlit frontend app
 
+|__ requirements.txt
+
 ## ⚙️ Tech Stack
 
 * **Frontend**: [Streamlit](https://streamlit.io/)
@@ -135,7 +137,7 @@ The file `analysis_model.ipynb` includes:
 
 ## 👨‍💻 Author
 
-**Zabi**
+**Zabiha Muskan**
 Python Developer | AIML Enthusiast
 Feel free to connect or contribute!
 
@@ -147,15 +149,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ````
 
----
-
-### ✅ Optional Tips:
-- Create a `screenshots/` folder and move your two screenshot PNGs there.
-- Update the GitHub repo link and author name.
-- Add a `requirements.txt` using:
-
-```bash
-pip freeze > requirements.txt
-````
 
 
