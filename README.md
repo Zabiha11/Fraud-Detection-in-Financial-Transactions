@@ -30,13 +30,17 @@ The goal of this project is to identify fraudulent transactions based on pattern
 
 ## 🗂️ Project Structure
 
-```bash
 FRAUD DETECTION/
-├── .vscode/                       # VS Code configs
-├── AIML Dataset.csv              # Raw transaction dataset
-├── analysis_model.ipynb          # Jupyter Notebook for training and analysis
-├── fraud_detection_pipeline.pkl  # Trained ML model
-└── fraud_detection.py            # Streamlit frontend app
+
+├── .vscode/                         # VS Code configs
+
+├── AIML Dataset.csv                # Raw transaction dataset
+
+├── analysis_model.ipynb            # Jupyter Notebook for training and analysis
+
+├── fraud_detection_pipeline.pkl    # Trained ML model
+
+└── fraud_detection.py              # Streamlit frontend app
 
 ## ⚙️ Tech Stack
 
@@ -54,7 +58,6 @@ FRAUD DETECTION/
    ```bash
    git clone https://github.com/yourusername/fraud-detection-app.git
    cd fraud-detection-app
-   ```
 
 2. **Install Dependencies**
 
