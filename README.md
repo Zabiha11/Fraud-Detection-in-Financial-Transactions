@@ -9,6 +9,8 @@ This is a machine learning-based web application to **detect fraudulent financia
 
 ---
 app link : https://fraud-detection-in-financial-transactions-zabi.streamlit.app/
+
+Dataset link: https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
 ## 📌 Table of Contents
 
 - [Overview](#overview)
