@@ -111,22 +111,6 @@ The file `analysis_model.ipynb` includes:
 
 ---
 
-## 🖼️ Screenshots
-
-**Streamlit App UI**
-
-<p align="center">
-  <img src="screenshots/streamlit_ui.png" alt="UI Screenshot" width="600">
-</p>
-
-**Prediction Output**
-
-<p align="center">
-  <img src="screenshots/streamlit_output.png" alt="Output Screenshot" width="600">
-</p>
-
----
-
 ## 🔮 Future Enhancements
 
 * Show prediction probabilities/confidence
@@ -140,7 +124,9 @@ The file `analysis_model.ipynb` includes:
 ## 👨‍💻 Author
 
 **Zabiha Muskan**
+
 Python Developer | AIML Enthusiast
+
 Feel free to connect or contribute!
 
 ---
@@ -150,6 +136,3 @@ Feel free to connect or contribute!
 This project is licensed under the [MIT License](LICENSE).
 
 ````
-
-
-
